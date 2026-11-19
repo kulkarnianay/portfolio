@@ -20,12 +20,12 @@ gallery_images:
 
 <!-- markdownlint-disable MD033 -->
 
-## As a conversation Starter
+## As a conversation Starter ssss
 
 Here are some places I have lived.
 
 <comment>
-Flags are made using Wikipedia images
+Flags are made using Wikipedia images 
 </comment>
 
 <!-- The OCS grid grammar styles the container; JavaScript uses its id to add locations. -->
