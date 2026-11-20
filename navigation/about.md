@@ -25,7 +25,7 @@ gallery_images:
 Here are some places I have lived.
 
 <comment>
-Flags are made using Wikipedia images 
+Flags are made using Wikipedia images  xxxx
 </comment>
 
 <!-- The OCS grid grammar styles the container; JavaScript uses its id to add locations. -->
